@@ -49,13 +49,13 @@ RegisterNumber:  23014256
 ![image](https://github.com/sumanguna/Experiment--02-Implementation-of-combinational-logic-/assets/146914442/3fcc5fe2-1af1-46b2-adbd-aad68341325e)
 
 
-## Output:
-## RTL
 ## Timing Diagram
 # F1:
 ![image](https://github.com/sumanguna/Experiment--02-Implementation-of-combinational-logic-/assets/146914442/aff648cd-e3b3-4b0c-8360-186a1b8b8839)
 # F2:
 ![image](https://github.com/sumanguna/Experiment--02-Implementation-of-combinational-logic-/assets/146914442/7aa6ef36-c7d6-4443-bd33-bd6edb5289af)
+
+## Truthtable
 
 
 ## Result:
