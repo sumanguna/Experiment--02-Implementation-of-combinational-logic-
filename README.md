@@ -50,8 +50,9 @@ A combinational circuit is a circuit in which the output depends on the present 
     Give the Input Combinations according to the Truth Table amd then simulate the Output waveform
     
 ## Program:
-/*
+
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+
 Developed by: SUMAN.G
 RegisterNumber:  23014256
 module ex_02(a,b,c,d,f1);
@@ -65,7 +66,7 @@ assign x4=(~a)& (b) & (c) & (d);
 assign x5=(b) & (~c)&(d);
 assign f1=x1|x2|x3|x4|x5;
 endmodule
-*/
+
 ## RTL realization
 
 ## Output:
