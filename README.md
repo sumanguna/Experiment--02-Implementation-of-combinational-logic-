@@ -42,6 +42,10 @@ RegisterNumber:  23014256
 
   
 ## RTL realization
+# F1:
+![image](https://github.com/sumanguna/Experiment--02-Implementation-of-combinational-logic-/assets/146914442/f59798a1-ff1d-4e0a-a3fb-56278b48a84a)
+
+# F2:
 
 ## Output:
 ## RTL
