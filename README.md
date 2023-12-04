@@ -36,6 +36,8 @@ Program to implement the given logic function and to verify its operations in qu
 
 Developed by: SUMAN.G
 RegisterNumber:  23014256
+ ![image](https://github.com/sumanguna/Experiment--02-Implementation-of-combinational-logic-/assets/146914442/d46c0c72-a627-4de1-819f-fd3a06cfa217)
+
   
 ## RTL realization
 
