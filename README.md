@@ -57,6 +57,7 @@ RegisterNumber:  23014256
 
 ![image](https://github.com/sumanguna/Experiment--02-Implementation-of-combinational-logic-/assets/146914442/aff648cd-e3b3-4b0c-8360-186a1b8b8839)
 ## Truthtable
+![Screenshot 2023-12-23 110439](https://github.com/sumanguna/Experiment--02-Implementation-of-combinational-logic-/assets/146914442/4f9e7ebf-b748-4381-b2c0-7c21b894b734)
 
 
 ## Result:
